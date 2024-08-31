@@ -13,5 +13,5 @@ My data science and analytics projects
 reach out to me at aa.pongpak@gmail.com
 
 ## Image
-![image](Image URL)
+![Alt text](Image URL)
 
