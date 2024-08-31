@@ -6,5 +6,12 @@ My data science and analytics projects
 1. SQL supermarket analysis
 2. SQL churn analysis
 3. R programming - Pao Ying Chub
-4. Looker GAA record
-5.  
+4. Looker GA4 Dashboard
+5. Linear Regression Model using caret
+
+## Contact Me
+reach out to me at aa.pongpak@gmail.com
+
+## Image
+![image](Image URL)
+
